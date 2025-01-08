@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using ExportTilesetDefinition;
 using Utf8Json;
 
 namespace LDtkDefinitionSync
